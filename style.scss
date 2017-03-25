@@ -1,0 +1,12 @@
+.button {
+	display: inline-block;
+	padding: 0 1rem;
+	height: 2rem;
+	line-height: 2rem;
+	background: hsl(30,100,50);
+
+	&:hover {
+		background: hsl(30,100,45);
+		font-size: 0;
+	}
+}

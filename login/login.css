@@ -1,0 +1,56 @@
+.mb10 {
+	margin-bottom: 10px;
+}
+.mt10 {
+	margin-top: 10px;
+}
+.mt20 {
+	margin-top: 20px;
+}
+.title-link-login {
+	color: #282828;
+	text-decoration: none;
+	text-transform: uppercase;
+	/*border: 1px solid gray;*/
+}
+.titles {
+	margin-bottom: ;
+}
+.mt50 {
+	margin-top: 50px;
+}
+.border-bottom {
+	border-bottom: 7px solid #ded600;
+}
+.btn {
+	border-radius: 0;
+}
+.btn-size {
+	width: 120px;
+	height: 34px;
+}
+.btn-primary {
+	background-color: #0076e1;
+}
+.form-control {
+	border-radius: 0;
+}
+/* unvisited link */
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+    color: #282828;
+}
+a:link {
+	font-weight: bold;
+}
+/* visited link */
+a:visited {  }
+/* mouse over link */
+a:hover {  }
+/* selected link */
+a:active {  }
+@media screen and (min-width: 700px) {
+	.container {
+		width: 30%;
+ 	}
+}
